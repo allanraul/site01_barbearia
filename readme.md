@@ -14,7 +14,7 @@
 
 ## SINCRONIZANDO OS DADOS
 ### Enviando informações para o github.com
-1. Utilizar o comando `git pull origin master` 
+1. Utilizar o comando `git push origin master` 
 
 ### Recebendo informações para o github.com
-1. Utilizar o comando `git push origin master`
+1. Utilizar o comando `git pull origin master`
